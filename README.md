@@ -1,4 +1,4 @@
-My Store \n
+My Store 
 This project is a Flutter application developed as part of an interview process. The goal of the project is to create a mobile application that retrieves data from a dummy JSON API and displays it in a user-friendly interface.
 
 Features
