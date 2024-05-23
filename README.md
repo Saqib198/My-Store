@@ -33,8 +33,6 @@ Include a user profile section with basic information.
   GET products/categories
 ```
 
-## Demo
-
-Insert gif or link to demo
+## DEMO
 
 https://youtu.be/eEUi39UiHvs
